@@ -8,6 +8,7 @@ def штампај(*e):
 
 #print("END ", end=input())
 
+
 #input("DAJ MI TEKSTA")
 
 #print("Vece") if 2<1 else print("manje")
